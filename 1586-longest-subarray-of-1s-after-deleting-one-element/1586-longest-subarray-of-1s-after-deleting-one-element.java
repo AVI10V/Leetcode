@@ -14,7 +14,7 @@ class Solution {
                 }
                 l++;
             }
-            size=Math.max(size,r-l);
+            size=Math.max(size,r-l); // since here we are removing that one element that is why we use r-l we are not including that one
             r++;
         }
         return size;
