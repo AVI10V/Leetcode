@@ -1,6 +1,6 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        HashSet <Character> mpp=new HashSet<Character>();
+        HashSet <Character> mpp=new HashSet<>();
         mpp.add('a');
         mpp.add('e');
         mpp.add('i');
