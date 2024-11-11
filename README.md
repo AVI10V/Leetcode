@@ -8,6 +8,7 @@ Leetcode solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/AVI10V/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AVI10V/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AVI10V/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AVI10V/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/AVI10V/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/AVI10V/Leetcode/tree/master/0135-candy) |
@@ -83,4 +84,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AVI10V/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
