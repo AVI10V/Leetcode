@@ -20,6 +20,7 @@ Leetcode solutions
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Leetcode solutions
 | [0135-candy](https://github.com/AVI10V/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AVI10V/Leetcode/tree/master/0605-can-place-flowers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,8 +93,10 @@ Leetcode solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/AVI10V/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
