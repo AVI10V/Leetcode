@@ -15,14 +15,7 @@ class Solution {
 
         
     }
-    static class interval{
-        int start;
-        int end;
-        interval(int x, int y){
-            this.start=x;
-            this.end=y;
-        }
-    }
+   
     static class cmp implements Comparator<int[]>{
         public int compare(int[] a , int[] b){
             return a[1]-b[1];
