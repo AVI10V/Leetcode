@@ -5,7 +5,7 @@ class Solution {
         String e1=event1[1];
         String e2=event2[1];
 
-        return s2.compareTo(e1)<=0 && s1.compareTo(e2)<=0;
+        return e2.compareTo(s1)>=0 && e1.compareTo(s2)>=0;
 
         
         
