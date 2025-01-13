@@ -29,6 +29,7 @@ Leetcode solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/AVI10V/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AVI10V/Leetcode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -110,4 +111,16 @@ Leetcode solutions
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
