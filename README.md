@@ -115,27 +115,32 @@ Leetcode solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
