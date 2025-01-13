@@ -23,10 +23,9 @@ class Solution {
     }
     public int helper(TreeNode root, int[] max){
         if(root==null)return 0;
-        int l=Math.max(0,helper(root.left,max));
+        int l=Math.max(0,helper(root.left,max)); //used for paths that a path shouldnt give -ve values better not to consider that path
         int r=Math.max(0,helper(root.right,max));
-        max[0]=Math.max(max[0],l+r+root.val);
+        max[0]=Math.max(max[0],l+r+root.val); // here root value is considered
         return Math.max(l,r)+root.val;
-
     }
 }
