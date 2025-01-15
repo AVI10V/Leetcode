@@ -124,6 +124,7 @@ Leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AVI10V/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AVI10V/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AVI10V/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,6 +153,7 @@ Leetcode solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
