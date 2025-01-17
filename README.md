@@ -124,6 +124,7 @@ Leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AVI10V/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -147,6 +148,7 @@ Leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AVI10V/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -171,4 +173,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
