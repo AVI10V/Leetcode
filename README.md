@@ -121,6 +121,7 @@ Leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -142,6 +143,7 @@ Leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -158,6 +160,7 @@ Leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AVI10V/Leetcode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -222,6 +225,7 @@ Leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AVI10V/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
