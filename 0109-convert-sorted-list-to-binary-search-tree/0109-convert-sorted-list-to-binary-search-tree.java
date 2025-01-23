@@ -26,20 +26,23 @@
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
         if(head==null)return null;
-        List<Integer> ans = new ArrayList<Integer>();
-        while(head!=null){
-            ans.add(head.val);
-            head=head.next;
-        }
-        return helper(ans,0,ans.size()-1);
-        
+        ListNode mid=find(head);
+        TreeNode root=new TreeNode(mid.val);
+        if(head==mid) return root;
+        root.left=sortedListToBST(head); //disconnected while finding middle 
+        root.right=sortedListToBST(mid.next); //here just dont consider the middle one
+        return root;  
     }
-    public TreeNode helper(List<Integer> ans , int s, int e){
-        if(s>e)return null;
-        int m=(s+e)/2;
-        TreeNode root=new TreeNode(ans.get(m));
-        root.left=helper(ans,s,m-1);
-        root.right=helper(ans,m+1,e);
-        return root;
+    public ListNode find(ListNode head){
+        ListNode slow=head;
+        ListNode fast=head;
+        ListNode prev=null;
+        while(fast!=null && fast.next!=null){
+            prev=slow;
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        if(prev!=null)prev.next=null;
+        return slow;
     }
 }
