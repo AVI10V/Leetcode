@@ -139,6 +139,7 @@ Leetcode solutions
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -184,6 +185,7 @@ Leetcode solutions
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -198,6 +200,7 @@ Leetcode solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AVI10V/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
