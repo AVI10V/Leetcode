@@ -23,6 +23,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -61,6 +62,7 @@ Leetcode solutions
 | [0074-search-a-2d-matrix](https://github.com/AVI10V/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Leetcode solutions
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
