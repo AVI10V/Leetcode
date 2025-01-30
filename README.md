@@ -218,6 +218,7 @@ Leetcode solutions
 | [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -270,4 +271,9 @@ Leetcode solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
