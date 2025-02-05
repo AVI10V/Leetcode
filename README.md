@@ -16,6 +16,7 @@ Leetcode solutions
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AVI10V/Leetcode/tree/master/0605-can-place-flowers) |
@@ -265,6 +266,7 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
