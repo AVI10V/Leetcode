@@ -183,6 +183,7 @@ Leetcode solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AVI10V/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AVI10V/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/AVI10V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
@@ -228,6 +229,7 @@ Leetcode solutions
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AVI10V/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/AVI10V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
@@ -293,11 +295,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/AVI10V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AVI10V/Leetcode/tree/master/0547-number-of-provinces) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Counting
 |  |
