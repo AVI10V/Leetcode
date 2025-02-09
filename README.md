@@ -19,6 +19,7 @@ Leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AVI10V/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/AVI10V/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0419-battleships-in-a-board](https://github.com/AVI10V/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
@@ -130,6 +131,7 @@ Leetcode solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AVI10V/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/AVI10V/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -283,6 +285,7 @@ Leetcode solutions
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AVI10V/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/AVI10V/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search Tree
 |  |
 | ------- |
