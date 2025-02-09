@@ -3,6 +3,7 @@ class Solution {
         int row=image.length;
         int col=image[0].length;
         int orignal=image[sr][sc];
+        if(color==orignal)return image;
         if(orignal!=color){
             dfs(image,sr,sc,color,orignal);
         }
