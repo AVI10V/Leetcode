@@ -215,6 +215,7 @@ Leetcode solutions
 | [0801-is-graph-bipartite](https://github.com/AVI10V/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/AVI10V/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AVI10V/Leetcode/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/AVI10V/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -267,6 +268,7 @@ Leetcode solutions
 | [0801-is-graph-bipartite](https://github.com/AVI10V/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/AVI10V/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AVI10V/Leetcode/tree/master/0922-possible-bipartition) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AVI10V/Leetcode/tree/master/1036-rotting-oranges) |
@@ -338,6 +340,7 @@ Leetcode solutions
 | [0547-number-of-provinces](https://github.com/AVI10V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AVI10V/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/AVI10V/Leetcode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/AVI10V/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AVI10V/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -347,6 +350,7 @@ Leetcode solutions
 | [0547-number-of-provinces](https://github.com/AVI10V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AVI10V/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AVI10V/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AVI10V/Leetcode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AVI10V/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AVI10V/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Counting
