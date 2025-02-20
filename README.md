@@ -20,6 +20,7 @@ Leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AVI10V/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/AVI10V/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0419-battleships-in-a-board](https://github.com/AVI10V/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -71,6 +72,7 @@ Leetcode solutions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AVI10V/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Matrix
@@ -93,6 +95,7 @@ Leetcode solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AVI10V/Leetcode/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1364-tuple-with-same-product](https://github.com/AVI10V/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -145,6 +148,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Sorting
@@ -152,6 +156,7 @@ Leetcode solutions
 | ------- |
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AVI10V/Leetcode/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -320,6 +325,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
