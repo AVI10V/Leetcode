@@ -40,6 +40,7 @@ Leetcode solutions
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AVI10V/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AVI10V/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -97,6 +98,7 @@ Leetcode solutions
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AVI10V/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AVI10V/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -112,6 +114,7 @@ Leetcode solutions
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AVI10V/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AVI10V/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -375,4 +378,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AVI10V/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
