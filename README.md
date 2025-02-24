@@ -66,6 +66,7 @@ Leetcode solutions
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AVI10V/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AVI10V/Leetcode/tree/master/0605-can-place-flowers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AVI10V/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -122,6 +123,7 @@ Leetcode solutions
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AVI10V/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AVI10V/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
@@ -395,6 +397,7 @@ Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AVI10V/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/AVI10V/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AVI10V/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
