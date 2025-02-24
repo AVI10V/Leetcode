@@ -119,6 +119,7 @@ Leetcode solutions
 | [0344-reverse-string](https://github.com/AVI10V/Leetcode/tree/master/0344-reverse-string) |
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AVI10V/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -350,6 +351,7 @@ Leetcode solutions
 | [0173-binary-search-tree-iterator](https://github.com/AVI10V/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
