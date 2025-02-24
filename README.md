@@ -95,6 +95,7 @@ Leetcode solutions
 | [0076-minimum-window-substring](https://github.com/AVI10V/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AVI10V/Leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -113,6 +114,7 @@ Leetcode solutions
 | [0013-roman-to-integer](https://github.com/AVI10V/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/AVI10V/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AVI10V/Leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/AVI10V/Leetcode/tree/master/0344-reverse-string) |
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
