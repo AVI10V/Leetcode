@@ -1,7 +1,7 @@
 class Solution {
     public int minimizedStringLength(String s) {
         Set<Character> st = new HashSet<>();
-        int n= s.length();
+        int n=s.length();
        int i=0;
        int e=n-1;
        while(i<=e){
