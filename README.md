@@ -39,6 +39,7 @@ Leetcode solutions
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AVI10V/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AVI10V/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -57,6 +58,7 @@ Leetcode solutions
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AVI10V/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
