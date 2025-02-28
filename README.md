@@ -77,6 +77,7 @@ Leetcode solutions
 | [0074-search-a-2d-matrix](https://github.com/AVI10V/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AVI10V/Leetcode/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Matrix
@@ -425,4 +426,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AVI10V/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
