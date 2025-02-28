@@ -217,6 +217,7 @@ Leetcode solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AVI10V/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -253,6 +254,7 @@ Leetcode solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AVI10V/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -284,6 +286,7 @@ Leetcode solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AVI10V/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
