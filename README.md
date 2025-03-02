@@ -144,6 +144,7 @@ Leetcode solutions
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AVI10V/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AVI10V/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/AVI10V/Leetcode/tree/master/2825-minimize-string-length) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AVI10V/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
@@ -384,6 +385,7 @@ Leetcode solutions
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AVI10V/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,6 +429,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AVI10V/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AVI10V/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Data Stream
 |  |
