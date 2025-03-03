@@ -195,6 +195,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
+| [0086-partition-list](https://github.com/AVI10V/Leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AVI10V/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AVI10V/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AVI10V/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -341,6 +342,7 @@ Leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/AVI10V/Leetcode/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AVI10V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AVI10V/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
