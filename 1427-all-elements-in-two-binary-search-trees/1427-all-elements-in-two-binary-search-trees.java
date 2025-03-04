@@ -24,21 +24,18 @@ class Solution {
         int s2=0;
         while(s1<ans.size() && s2<ans2.size()){
             if(ans.get(s1)<ans2.get(s2)){
-                main.add(ans.get(s1));
-                s1++;
-            }
+                main.add(ans.get(s1++));
+                    }
             else{
-                main.add(ans2.get(s2));
-                s2++;
+                main.add(ans2.get(s2++));
             }
         }
         while(s1<ans.size()){
-            main.add(ans.get(s1));
-            s1++;
+            main.add(ans.get(s1++));
         }
          while(s2<ans2.size()){
-            main.add(ans2.get(s2));
-            s2++;
+            main.add(ans2.get(s2++));
+
         }
         return main ;
 
