@@ -180,6 +180,7 @@ Leetcode solutions
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2649-count-total-number-of-colored-cells](https://github.com/AVI10V/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Sorting
 |  |
 | ------- |
