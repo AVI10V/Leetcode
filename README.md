@@ -54,6 +54,7 @@ Leetcode solutions
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AVI10V/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AVI10V/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AVI10V/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AVI10V/Leetcode/tree/master/3429-special-array-i) |
@@ -209,6 +210,7 @@ Leetcode solutions
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -459,6 +461,7 @@ Leetcode solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AVI10V/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AVI10V/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AVI10V/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Data Stream
 |  |
@@ -480,4 +483,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AVI10V/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
