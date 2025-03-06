@@ -53,6 +53,7 @@ Leetcode solutions
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3194-find-words-containing-character](https://github.com/AVI10V/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AVI10V/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AVI10V/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AVI10V/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -99,6 +100,7 @@ Leetcode solutions
 | [1036-rotting-oranges](https://github.com/AVI10V/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AVI10V/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Leetcode solutions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2825-minimize-string-length](https://github.com/AVI10V/Leetcode/tree/master/2825-minimize-string-length) |
+| [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AVI10V/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AVI10V/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -188,6 +191,7 @@ Leetcode solutions
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AVI10V/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AVI10V/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
