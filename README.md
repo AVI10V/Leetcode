@@ -62,6 +62,7 @@ Leetcode solutions
 | [3429-special-array-i](https://github.com/AVI10V/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AVI10V/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AVI10V/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-alternating-groups-ii](https://github.com/AVI10V/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3778-transform-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -180,6 +181,7 @@ Leetcode solutions
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AVI10V/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/AVI10V/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
