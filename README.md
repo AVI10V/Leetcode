@@ -200,6 +200,7 @@ Leetcode solutions
 | [0013-roman-to-integer](https://github.com/AVI10V/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AVI10V/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2491-smallest-even-multiple](https://github.com/AVI10V/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AVI10V/Leetcode/tree/master/2556-convert-the-temperature) |
