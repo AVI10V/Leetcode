@@ -201,6 +201,7 @@ Leetcode solutions
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2491-smallest-even-multiple](https://github.com/AVI10V/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AVI10V/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AVI10V/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AVI10V/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -496,4 +497,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/AVI10V/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
