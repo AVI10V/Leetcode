@@ -273,6 +273,7 @@ Leetcode solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AVI10V/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AVI10V/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -312,6 +313,7 @@ Leetcode solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AVI10V/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AVI10V/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -345,6 +347,7 @@ Leetcode solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AVI10V/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AVI10V/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -377,6 +380,7 @@ Leetcode solutions
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/AVI10V/Leetcode/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AVI10V/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
