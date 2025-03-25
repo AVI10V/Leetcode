@@ -57,6 +57,7 @@ Leetcode solutions
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AVI10V/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AVI10V/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/AVI10V/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3194-find-words-containing-character](https://github.com/AVI10V/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
@@ -99,6 +100,7 @@ Leetcode solutions
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AVI10V/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Leetcode solutions
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/AVI10V/Leetcode/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -248,6 +251,7 @@ Leetcode solutions
 | [2128-reverse-prefix-of-word](https://github.com/AVI10V/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AVI10V/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
 | ------- |
