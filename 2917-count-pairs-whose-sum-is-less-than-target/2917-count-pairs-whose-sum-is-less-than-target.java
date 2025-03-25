@@ -4,15 +4,11 @@ class Solution {
         int s=0;
         int e=nums.size()-1;
         int ans =0;
-        while(s<nums.size()){
+        while(s<e){
             int sum =nums.get(s)+nums.get(e);
-            if(s==e){
-               break;
-            }
-            else if(sum<target){
+            if(sum<target){
                 ans+=e-s;
                 s++;
-                e=nums.size()-1;
             }    
             else{
                 e--;
