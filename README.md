@@ -220,6 +220,7 @@ Leetcode solutions
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AVI10V/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2383-add-two-integers](https://github.com/AVI10V/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/AVI10V/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AVI10V/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AVI10V/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
