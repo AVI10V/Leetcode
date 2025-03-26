@@ -51,6 +51,7 @@ Leetcode solutions
 | [1944-truncate-sentence](https://github.com/AVI10V/Leetcode/tree/master/1944-truncate-sentence) |
 | [2102-find-the-middle-index-in-array](https://github.com/AVI10V/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AVI10V/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -114,6 +115,7 @@ Leetcode solutions
 | [1036-rotting-oranges](https://github.com/AVI10V/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AVI10V/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -215,6 +217,7 @@ Leetcode solutions
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AVI10V/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2491-smallest-even-multiple](https://github.com/AVI10V/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AVI10V/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AVI10V/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -232,6 +235,7 @@ Leetcode solutions
 | [0941-sort-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AVI10V/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
