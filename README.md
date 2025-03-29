@@ -167,6 +167,7 @@ Leetcode solutions
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AVI10V/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/AVI10V/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/AVI10V/Leetcode/tree/master/1944-truncate-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -259,6 +260,7 @@ Leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0941-sort-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
+| [1894-merge-strings-alternately](https://github.com/AVI10V/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AVI10V/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AVI10V/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
