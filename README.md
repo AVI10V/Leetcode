@@ -42,6 +42,7 @@ Leetcode solutions
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/AVI10V/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1364-tuple-with-same-product](https://github.com/AVI10V/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AVI10V/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -136,6 +137,7 @@ Leetcode solutions
 | [1364-tuple-with-same-product](https://github.com/AVI10V/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AVI10V/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
