@@ -1,21 +1,42 @@
+
+//USNIG BFS 
 class Solution {
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int row=image.length;
-        int col=image[0].length;
-        int orignal=image[sr][sc];
-        if(color==orignal)return image;
-        if(orignal!=color){
-            dfs(image,sr,sc,color,orignal);
-        }
-        return image;
-        
+   class pair{
+    int row;
+    int col;
+    public pair(int x, int y){
+        this.row=x;
+        this.col=y;
     }
-    public void dfs(int[][] image,int r, int c, int color, int oc){
-        if(r<0 || r>=image.length|| c<0 || c>=image[0].length || image[r][c]!=oc)return;
-        image[r][c]=color;
-        dfs(image,r-1,c,color,oc);
-        dfs(image,r+1,c,color,oc);
-        dfs(image,r,c+1,color,oc);
-        dfs(image,r,c-1,color,oc);
+   }
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int orignal=image[sr][sc];
+        if(orignal==color)return image;
+        bfs(orignal,new pair(sr,sc),color,image);
+        return image;
+    }
+    public void bfs(int oc,pair pp, int color,int[][] image){
+        int orow=pp.row;
+        int ocol=pp.col;
+        image[orow][ocol]=color;
+        int[] drow={0,-1,0,+1};
+        int[] dcol={-1,0,1,0};
+        Queue<pair> qu = new LinkedList<>();
+        qu.offer(pp);
+        while(!qu.isEmpty()){
+            pair p=qu.poll();
+            int row=p.row;
+            int col=p.col;
+            for(int i=0;i<4;i++){
+                int nrow=row+drow[i];
+                int ncol=col+dcol[i];
+                if(nrow>=0 && nrow<image.length && ncol>=0 && ncol<image[0].length && image[nrow][ncol]==oc){
+                    qu.offer(new pair(nrow,ncol));
+                    image[nrow][ncol]=color;
+                }
+            }
+
+        }
+
     }
 }
