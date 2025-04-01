@@ -46,6 +46,7 @@ Leetcode solutions
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AVI10V/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1813-maximum-erasure-value](https://github.com/AVI10V/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AVI10V/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AVI10V/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -139,6 +140,7 @@ Leetcode solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/AVI10V/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2825-minimize-string-length](https://github.com/AVI10V/Leetcode/tree/master/2825-minimize-string-length) |
@@ -199,6 +201,7 @@ Leetcode solutions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AVI10V/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/AVI10V/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AVI10V/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/AVI10V/Leetcode/tree/master/3483-alternating-groups-ii) |
