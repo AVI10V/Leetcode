@@ -1,33 +1,31 @@
 class Solution {
     public boolean possibleBipartition(int n, int[][] dislikes) {
-        List<List<Integer>> adj = new ArrayList<>();
-        if(n==1)return true;
-        int r=dislikes.length;
-        int c=dislikes[0].length;
+        
+        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
         for(int i=0;i<n+1;i++){
-              adj.add(new ArrayList<>());
+            ans.add(new ArrayList<>());
         }
-        for(int j=0;j<r;j++){
-            adj.get(dislikes[j][0]).add(dislikes[j][1]);
-            adj.get(dislikes[j][1]).add(dislikes[j][0]);
+        for(int i=0;i<dislikes.length;i++){
+            ans.get(dislikes[i][0]).add(dislikes[i][1]);
+            ans.get(dislikes[i][1]).add(dislikes[i][0]);
         }
-        int[] color = new int[n+1];
+        int[] color= new int[n+1];
         Arrays.fill(color,-1);
-        for(int i=1;i<n;i++){
+        for(int i=1;i<n+1;i++){
             if(color[i]==-1){
-                if(!bfs(dislikes,i,color,0,adj))return false;
-            }
+                if(dfs(ans,color,i,0)==false)return false;
 
+            }
         }
         return true;
     }
-    public boolean bfs(int[][] dislikes, int node, int[] color, int col,List<List<Integer>> adj){
-        color[node]=col;
-        for(int x:adj.get(node)){
+    public boolean dfs(ArrayList<ArrayList<Integer>> adj, int[] color, int i,int col){
+        color[i]=col;
+        for(int x:adj.get(i)){
             if(color[x]==-1){
-               if(!bfs(dislikes,x,color,1-col,adj))return false;
+                if(!dfs(adj,color,x,1-col))return false;
             }
-            else if(color[x]==color[node])return false;
+            else if(color[x]==col)return false;
         }
         return true;
     }
