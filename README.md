@@ -52,6 +52,7 @@ Leetcode solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AVI10V/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/AVI10V/Leetcode/tree/master/1944-truncate-sentence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/AVI10V/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/AVI10V/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -249,6 +250,7 @@ Leetcode solutions
 | [0941-sort-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AVI10V/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/AVI10V/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/AVI10V/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
