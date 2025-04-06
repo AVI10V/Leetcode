@@ -166,6 +166,7 @@ Leetcode solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/AVI10V/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/AVI10V/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/AVI10V/Leetcode/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -576,4 +577,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AVI10V/Leetcode/tree/master/0744-network-delay-time) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AVI10V/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
