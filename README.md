@@ -63,6 +63,7 @@ Leetcode solutions
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AVI10V/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AVI10V/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/AVI10V/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
@@ -152,6 +153,7 @@ Leetcode solutions
 | [1813-maximum-erasure-value](https://github.com/AVI10V/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AVI10V/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/AVI10V/Leetcode/tree/master/2825-minimize-string-length) |
 | [3034-points-that-intersect-with-cars](https://github.com/AVI10V/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -477,6 +479,7 @@ Leetcode solutions
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AVI10V/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
