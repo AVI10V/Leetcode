@@ -603,4 +603,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AVI10V/Leetcode/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/AVI10V/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
