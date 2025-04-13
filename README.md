@@ -46,6 +46,7 @@ Leetcode solutions
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1677-matrix-diagonal-sum](https://github.com/AVI10V/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1720-crawler-log-folder](https://github.com/AVI10V/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1753-path-with-minimum-effort](https://github.com/AVI10V/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AVI10V/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/AVI10V/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -187,6 +188,7 @@ Leetcode solutions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AVI10V/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/AVI10V/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AVI10V/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/AVI10V/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -495,6 +497,7 @@ Leetcode solutions
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/AVI10V/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/AVI10V/Leetcode/tree/master/2128-reverse-prefix-of-word) |
