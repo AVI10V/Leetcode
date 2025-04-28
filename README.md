@@ -89,6 +89,7 @@ Leetcode solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/AVI10V/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AVI10V/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AVI10V/Leetcode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AVI10V/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
@@ -246,6 +247,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AVI10V/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AVI10V/Leetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AVI10V/Leetcode/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AVI10V/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -605,6 +607,7 @@ Leetcode solutions
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AVI10V/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AVI10V/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
