@@ -2,21 +2,22 @@ class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;
-        int[][]dp = new int[m][n];
-        if(m==1 && n==1 && obstacleGrid[0][0]==1)return 0;
-        if(m==1 && n==1 && obstacleGrid[0][0]==0)return 1;
-        for(int[] x:dp){
-            Arrays.fill(x,-1);
+        int[][] dp = new int[m][n];
+        if(obstacleGrid[0][0]==1)return 0;
+        dp[0][0]=1;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(i==0 && j==0)dp[i][j]=1;
+                else if(obstacleGrid[i][j]==1)dp[i][j]=0;
+                else{
+                    int up=0;
+                    int left=0;
+                   if(i>0)up=dp[i-1][j];
+                   if(j>0)left=dp[i][j-1];
+                   dp[i][j]=up+left;
+                }
+            }
         }
-        return recur(obstacleGrid,dp,m-1,n-1);
-    }
-    public int recur(int[][] grid, int[][] dp, int r, int c){
-        if(r==0 && c==0 && grid[r][c]==0)return 1;
-        if(r<0 || c<0)return 0;
-        if(grid[r][c]==1)return 0;
-        if(dp[r][c]!=-1)return dp[r][c];
-        int up=recur(grid,dp,r-1,c);
-        int left=recur(grid,dp,r,c-1);
-        return dp[r][c]=left+up;
+        return dp[m-1][n-1];
     }
 }
