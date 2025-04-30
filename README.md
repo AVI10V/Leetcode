@@ -36,6 +36,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [0941-sort-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0967-minimum-falling-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AVI10V/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/AVI10V/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -97,6 +98,7 @@ Leetcode solutions
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AVI10V/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0967-minimum-falling-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AVI10V/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AVI10V/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -134,6 +136,7 @@ Leetcode solutions
 | [0419-battleships-in-a-board](https://github.com/AVI10V/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AVI10V/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AVI10V/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AVI10V/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
