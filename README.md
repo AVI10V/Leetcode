@@ -87,6 +87,7 @@ Leetcode solutions
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AVI10V/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/AVI10V/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AVI10V/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AVI10V/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AVI10V/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
@@ -284,6 +285,7 @@ Leetcode solutions
 | [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AVI10V/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AVI10V/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AVI10V/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
 | ------- |
