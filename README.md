@@ -164,6 +164,7 @@ Leetcode solutions
 | [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/AVI10V/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/AVI10V/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -195,6 +196,7 @@ Leetcode solutions
 | [0151-reverse-words-in-a-string](https://github.com/AVI10V/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/AVI10V/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/AVI10V/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AVI10V/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
@@ -574,6 +576,7 @@ Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/AVI10V/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AVI10V/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/AVI10V/Leetcode/tree/master/1364-tuple-with-same-product) |
