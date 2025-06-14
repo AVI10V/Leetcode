@@ -123,6 +123,7 @@ Leetcode solutions
 | [2032-largest-odd-number-in-string](https://github.com/AVI10V/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AVI10V/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AVI10V/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/AVI10V/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Leetcode solutions
 | [2556-convert-the-temperature](https://github.com/AVI10V/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AVI10V/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AVI10V/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/AVI10V/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AVI10V/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AVI10V/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
