@@ -17,6 +17,7 @@ Leetcode solutions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AVI10V/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/AVI10V/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/AVI10V/Leetcode/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/AVI10V/Leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/AVI10V/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -519,6 +520,7 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/AVI10V/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
