@@ -675,6 +675,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/AVI10V/Leetcode/tree/master/1258-article-views-i) |
+| [1942-primary-department-for-each-employee](https://github.com/AVI10V/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 ## Quickselect
 |  |
 | ------- |
