@@ -24,6 +24,7 @@ Leetcode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AVI10V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AVI10V/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
@@ -167,6 +168,7 @@ Leetcode solutions
 | [0127-word-ladder](https://github.com/AVI10V/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/AVI10V/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
@@ -308,6 +310,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AVI10V/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AVI10V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AVI10V/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -595,6 +598,7 @@ Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/AVI10V/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/AVI10V/Leetcode/tree/master/0451-sort-characters-by-frequency) |
