@@ -20,6 +20,7 @@ Leetcode solutions
 | [0135-candy](https://github.com/AVI10V/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AVI10V/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AVI10V/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/AVI10V/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AVI10V/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AVI10V/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AVI10V/Leetcode/tree/master/0200-number-of-islands) |
@@ -170,6 +171,7 @@ Leetcode solutions
 | [0076-minimum-window-substring](https://github.com/AVI10V/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AVI10V/Leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/AVI10V/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AVI10V/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
@@ -314,6 +316,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AVI10V/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AVI10V/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AVI10V/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AVI10V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
@@ -519,6 +522,7 @@ Leetcode solutions
 | [0023-merge-k-sorted-lists](https://github.com/AVI10V/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/AVI10V/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AVI10V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
@@ -607,6 +611,7 @@ Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AVI10V/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AVI10V/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/AVI10V/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/AVI10V/Leetcode/tree/master/0383-ransom-note) |
