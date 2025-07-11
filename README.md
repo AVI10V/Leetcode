@@ -49,6 +49,7 @@ Leetcode solutions
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AVI10V/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/AVI10V/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AVI10V/Leetcode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/AVI10V/Leetcode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [0941-sort-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -147,6 +148,7 @@ Leetcode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AVI10V/Leetcode/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/AVI10V/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/AVI10V/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
