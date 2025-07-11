@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/AVI10V/Leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AVI10V/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AVI10V/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AVI10V/Leetcode/tree/master/0055-jump-game) |
@@ -344,6 +345,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/AVI10V/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AVI10V/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AVI10V/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AVI10V/Leetcode/tree/master/0086-partition-list) |
