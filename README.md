@@ -9,6 +9,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AVI10V/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AVI10V/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/AVI10V/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/AVI10V/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AVI10V/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AVI10V/Leetcode/tree/master/0055-jump-game) |
@@ -145,6 +146,7 @@ Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AVI10V/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AVI10V/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/AVI10V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
