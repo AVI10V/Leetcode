@@ -69,6 +69,7 @@ Leetcode solutions
 | [1392-find-the-difference-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AVI10V/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVI10V/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1646-kth-missing-positive-number](https://github.com/AVI10V/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/AVI10V/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/AVI10V/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1753-path-with-minimum-effort](https://github.com/AVI10V/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -157,6 +158,7 @@ Leetcode solutions
 | [0792-binary-search](https://github.com/AVI10V/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AVI10V/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1646-kth-missing-positive-number](https://github.com/AVI10V/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/AVI10V/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AVI10V/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AVI10V/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
