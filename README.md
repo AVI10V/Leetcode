@@ -93,6 +93,7 @@ Leetcode solutions
 | [2536-determine-if-two-events-have-conflict](https://github.com/AVI10V/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AVI10V/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AVI10V/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2737-row-with-maximum-ones](https://github.com/AVI10V/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AVI10V/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AVI10V/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -181,6 +182,7 @@ Leetcode solutions
 | [1677-matrix-diagonal-sum](https://github.com/AVI10V/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/AVI10V/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AVI10V/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2737-row-with-maximum-ones](https://github.com/AVI10V/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/AVI10V/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
