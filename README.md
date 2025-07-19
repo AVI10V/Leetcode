@@ -242,6 +242,7 @@ Leetcode solutions
 | [0782-jewels-and-stones](https://github.com/AVI10V/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AVI10V/Leetcode/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/AVI10V/Leetcode/tree/master/0961-long-pressed-name) |
+| [1078-remove-outermost-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/AVI10V/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -590,6 +591,7 @@ Leetcode solutions
 | [0173-binary-search-tree-iterator](https://github.com/AVI10V/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AVI10V/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/AVI10V/Leetcode/tree/master/1720-crawler-log-folder) |
