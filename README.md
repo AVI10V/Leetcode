@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AVI10V/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AVI10V/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AVI10V/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AVI10V/Leetcode/tree/master/0031-next-permutation) |
@@ -187,6 +188,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AVI10V/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AVI10V/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AVI10V/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/AVI10V/Leetcode/tree/master/0076-minimum-window-substring) |
