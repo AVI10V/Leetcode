@@ -19,8 +19,9 @@ class Solution {
             fast=fast.next.next;
         }
         ListNode middle=slow.next;
-        ListNode right=reverse(middle);
         slow.next=null;
+        ListNode right=reverse(middle);
+        
         ListNode rightfront=right.next;
         ListNode left=head;
         ListNode leftfront=left.next;
