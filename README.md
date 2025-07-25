@@ -315,6 +315,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AVI10V/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/AVI10V/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AVI10V/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/AVI10V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
@@ -767,6 +768,7 @@ Leetcode solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AVI10V/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AVI10V/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AVI10V/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AVI10V/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
