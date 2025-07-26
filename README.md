@@ -126,6 +126,7 @@ Leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AVI10V/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AVI10V/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/AVI10V/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AVI10V/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/AVI10V/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -238,6 +239,7 @@ Leetcode solutions
 | [0038-count-and-say](https://github.com/AVI10V/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/AVI10V/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AVI10V/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/AVI10V/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AVI10V/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AVI10V/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -705,6 +707,7 @@ Leetcode solutions
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AVI10V/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AVI10V/Leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/AVI10V/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AVI10V/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Interactive
