@@ -209,6 +209,7 @@ Leetcode solutions
 | [0451-sort-characters-by-frequency](https://github.com/AVI10V/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/AVI10V/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AVI10V/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/AVI10V/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -428,6 +429,7 @@ Leetcode solutions
 | [0538-convert-bst-to-greater-tree](https://github.com/AVI10V/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -476,6 +478,7 @@ Leetcode solutions
 | [0820-find-eventual-safe-states](https://github.com/AVI10V/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/AVI10V/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/AVI10V/Leetcode/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -517,6 +520,7 @@ Leetcode solutions
 | [0538-convert-bst-to-greater-tree](https://github.com/AVI10V/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/AVI10V/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AVI10V/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AVI10V/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -555,6 +559,7 @@ Leetcode solutions
 | [0820-find-eventual-safe-states](https://github.com/AVI10V/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AVI10V/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/AVI10V/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/AVI10V/Leetcode/tree/master/0922-possible-bipartition) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/AVI10V/Leetcode/tree/master/1005-univalued-binary-tree) |
