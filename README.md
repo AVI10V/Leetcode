@@ -270,6 +270,7 @@ Leetcode solutions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AVI10V/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AVI10V/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/AVI10V/Leetcode/tree/master/1666-make-the-string-great) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AVI10V/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/AVI10V/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AVI10V/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AVI10V/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -739,6 +740,7 @@ Leetcode solutions
 | ------- |
 | [0289-game-of-life](https://github.com/AVI10V/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/AVI10V/Leetcode/tree/master/0412-fizz-buzz) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AVI10V/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AVI10V/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AVI10V/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -833,6 +835,7 @@ Leetcode solutions
 | [0050-powx-n](https://github.com/AVI10V/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AVI10V/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AVI10V/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AVI10V/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AVI10V/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bucket Sort
 |  |
