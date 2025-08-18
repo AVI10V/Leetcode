@@ -612,6 +612,7 @@ Leetcode solutions
 | [0234-palindrome-linked-list](https://github.com/AVI10V/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AVI10V/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AVI10V/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AVI10V/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -677,12 +678,14 @@ Leetcode solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AVI10V/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/AVI10V/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AVI10V/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AVI10V/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AVI10V/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AVI10V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AVI10V/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Iterator
 |  |
 | ------- |
@@ -836,6 +839,7 @@ Leetcode solutions
 | [0143-reorder-list](https://github.com/AVI10V/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AVI10V/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AVI10V/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AVI10V/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AVI10V/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bucket Sort
 |  |
