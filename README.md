@@ -293,6 +293,7 @@ Leetcode solutions
 | [3194-find-words-containing-character](https://github.com/AVI10V/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/AVI10V/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AVI10V/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AVI10V/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AVI10V/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AVI10V/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
@@ -656,6 +657,7 @@ Leetcode solutions
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AVI10V/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AVI10V/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AVI10V/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -769,6 +771,7 @@ Leetcode solutions
 | [0131-palindrome-partitioning](https://github.com/AVI10V/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AVI10V/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AVI10V/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AVI10V/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Interactive
 |  |
 | ------- |
