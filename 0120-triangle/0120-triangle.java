@@ -1,17 +1,20 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
-        int[][] dp = new int[n][n];
-        for(int[] x:dp){
-            Arrays.fill(x,-1);
+        int[] dp = new int[n];
+        for(int i=0;i<triangle.get(n-1).size();i++){
+            dp[i]=triangle.get(n-1).get(i);
         }
-        return recur(triangle, dp ,0,0);
-    }
-    public int recur(List<List<Integer>> arr , int[][] dp , int r, int c){
-        if(r==arr.size()-1)return arr.get(r).get(c);
-        if(dp[r][c]!=-1)return dp[r][c];
-        int down =arr.get(r).get(c)+recur(arr,dp,r+1,c);
-        int right =arr.get(r).get(c)+recur(arr,dp,r+1,c+1);
-        return dp[r][c]=Math.min(down,right);
+        for(int i=n-2;i>=0;i--){
+            int[] temp = new int[n];
+            for(int j=0;j<triangle.get(i).size();j++){
+                int up=dp[j];
+                int left=dp[j+1];
+                temp[j]=Math.min(up,left)+triangle.get(i).get(j);
+            }
+            dp=temp;
+        }
+        return dp[0];
+
     }
 }
