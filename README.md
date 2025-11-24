@@ -66,6 +66,7 @@ Leetcode solutions
 | [0941-sort-array-by-parity](https://github.com/AVI10V/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/AVI10V/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AVI10V/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AVI10V/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/AVI10V/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AVI10V/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AVI10V/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -669,6 +670,7 @@ Leetcode solutions
 | [0260-single-number-iii](https://github.com/AVI10V/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AVI10V/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AVI10V/Leetcode/tree/master/0338-counting-bits) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AVI10V/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AVI10V/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AVI10V/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AVI10V/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
